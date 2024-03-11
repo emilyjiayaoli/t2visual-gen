@@ -1,0 +1,12 @@
+openai
+diffusers
+torch
+transformers
+accelerate
+sentencepiece
+
+modelscope==1.4.2
+open_clip_torch
+pytorch-lightning
+
+invisible_watermark 

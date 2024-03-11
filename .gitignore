@@ -1,0 +1,12 @@
+**/__pycache__/
+.DS_Store
+
+# Environments
+venv/
+.env
+
+# Generated files
+generated/
+videos/
+imgs/
+outputs/

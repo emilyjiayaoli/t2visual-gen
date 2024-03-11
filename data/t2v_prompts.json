@@ -1,0 +1,1347 @@
+[
+    {
+        "id": "00001",
+        "prompt": "A baker pulling freshly baked bread out of an oven in a bakery.",
+        "prompt in Chinese": "一位面包师正从面包店的烤箱中取出刚烤好的面包。"
+    },
+    {
+        "id": "00002",
+        "prompt": "A photographer capturing a fleeting moment in a vibrant city street.",
+        "prompt in Chinese": "一位摄影师在充满活力的城市街头捕捉瞬间。"
+    },
+    {
+        "id": "00003",
+        "prompt": "A gardener tending to flowers in a greenhouse filled with sunlight.",
+        "prompt in Chinese": "一位园艺师在阳光充满的温室里照顾花卉。"
+    },
+    {
+        "id": "00004",
+        "prompt": "A man shaping clay on a wheel in a cluttered workshop.",
+        "prompt in Chinese": "一位男士在一个杂乱的工作室里在陶轮上塑形黏土。"
+    },
+    {
+        "id": "00005",
+        "prompt": "A crystal tree shimmering under a twilit, starry sky.",
+        "prompt in Chinese": "一棵在黄昏星空下闪烁的水晶树。"
+    },
+    {
+        "id": "00006",
+        "prompt": "A dragon perched majestically on a craggy, smoke-wreathed mountain.",
+        "prompt in Chinese": "一条龙威严地栖息在崎岖、缭绕烟雾的山峰上。"
+    },
+    {
+        "id": "00007",
+        "prompt": "A fairy dancing lightly atop a blooming, moonlit flower.",
+        "prompt in Chinese": "一位仙子轻巧地在月光下绽放的花朵上起舞。"
+    },
+    {
+        "id": "00008",
+        "prompt": "A phoenix soaring above a city, aglow with golden flames.",
+        "prompt in Chinese": "一只凤凰在城市上空飞翔，身披金色火焰。"
+    },
+    {
+        "id": "00009",
+        "prompt": "A ghostly ship sailing on a fog-shrouded, moonlit sea.",
+        "prompt in Chinese": "一艘幽灵船在浓雾笼罩、月夜的海上航行。"
+    },
+    {
+        "id": "00010",
+        "prompt": "A sorcerer's hat casting shadows over a cluttered, enchanted desk.",
+        "prompt in Chinese": "一顶巫师的帽子在一个杂乱、充满魔法的书桌上投下阴影。"
+    },
+    {
+        "id": "00011",
+        "prompt": "A pair of winged boots resting on a cloud in the sky.",
+        "prompt in Chinese": "一双有着翅膀的靴子停在天空中的云朵上。"
+    },
+    {
+        "id": "00012",
+        "prompt": "A talking mirror whispering secrets in a dim chamber.",
+        "prompt in Chinese": "一面会说话的镜子在昏暗的房间里低语秘密。"
+    },
+    {
+        "id": "00013",
+        "prompt": "An ice castle standing proudly in the midst of a blizzard.",
+        "prompt in Chinese": "一座冰雕城堡在暴风雪中傲然屹立。"
+    },
+    {
+        "id": "00014",
+        "prompt": "A potion bubbling brightly inside a cauldron in a shadowy nook.",
+        "prompt in Chinese": "在阴暗角落里，大锅里药水冒着明亮的气泡。"
+    },
+    {
+        "id": "00015",
+        "prompt": "A book with glowing runes floating beside a mystic crystal.",
+        "prompt in Chinese": "一本闪耀着符文的书漂浮在神秘水晶旁。"
+    },
+    {
+        "id": "00016",
+        "prompt": "A celestial comet racing across a star-studded, velvet sky.",
+        "prompt in Chinese": "一颗天体彗星在满是星星的天鹅绒般的夜空中飞驰。"
+    },
+    {
+        "id": "00017",
+        "prompt": "A mermaid singing softly near a coral throne undersea.",
+        "prompt in Chinese": "一位美人鱼在海底的珊瑚宝座旁轻声歌唱。"
+    },
+    {
+        "id": "00018",
+        "prompt": "A goblin trading shiny trinkets in a hidden, mystical market.",
+        "prompt in Chinese": "一只妖精在一个隐藏的、神秘的市场里交易闪亮的小饰品。"
+    },
+    {
+        "id": "00019",
+        "prompt": "A unicorn grazing peacefully in a radiant, rainbow-lit glade.",
+        "prompt in Chinese": "一只独角兽在一个光芒四射、彩虹照耀的林间空地上平静地吃草。"
+    },
+    {
+        "id": "00020",
+        "prompt": "A magical quill writing tales by itself on an empty scroll.",
+        "prompt in Chinese": "一支魔法羽毛笔自己在一张空白的卷轴上书写故事。"
+    },
+    {
+        "id": "00021",
+        "prompt": "A lantern casting spectral light in a haunted, whispering forest.",
+        "prompt in Chinese": "一盏灯在一个闹鬼、低语的森林中散发幽光。"
+    },
+    {
+        "id": "00022",
+        "prompt": "A cloak of invisibility draped over a chair in a secretive chamber.",
+        "prompt in Chinese": "一件隐形斗篷悬挂在一个秘密房间的椅子上。"
+    },
+    {
+        "id": "00023",
+        "prompt": "A genie's lamp emitting wisps of smoke on a sandy dune.",
+        "prompt in Chinese": "一盏神灯在沙丘上释放出缕缕烟雾。"
+    },
+    {
+        "id": "00024",
+        "prompt": "An enchanted broom sweeping in a wizard's lofty chamber.",
+        "prompt in Chinese": "一把魔法扫帚在巫师的阁楼中扫地。"
+    },
+    {
+        "id": "00025",
+        "prompt": "A cat pounces on a rolling ball.",
+        "prompt in Chinese": "一只猫扑向一个滚动的球。"
+    },
+    {
+        "id": "00026",
+        "prompt": "A young man tastes a simmering soup.",
+        "prompt in Chinese": "一位年轻人品尝正在炖的汤。"
+    },
+    {
+        "id": "00027",
+        "prompt": "A girl dabs paint on a mural.",
+        "prompt in Chinese": "一个女孩在壁画上涂颜料。"
+    },
+    {
+        "id": "00028",
+        "prompt": "A dancer twirls in a spotlight.",
+        "prompt in Chinese": "一个舞者在聚光灯下旋转。"
+    },
+    {
+        "id": "00029",
+        "prompt": "A boy leaps over a hurdle.",
+        "prompt in Chinese": "一个男孩跃过障碍。"
+    },
+    {
+        "id": "00030",
+        "prompt": "An old person snips a blooming rose.",
+        "prompt in Chinese": "一个老人剪下一朵盛开的玫瑰。"
+    },
+    {
+        "id": "00031",
+        "prompt": "A man kneads dough on a table.",
+        "prompt in Chinese": "一个男人在桌上揉面团。"
+    },
+    {
+        "id": "00032",
+        "prompt": "A person types on an old typewriter.",
+        "prompt in Chinese": "一个人在旧式打字机上打字。"
+    },
+    {
+        "id": "00033",
+        "prompt": "A dog tunes a violin.",
+        "prompt in Chinese": "一只狗调音小提琴。"
+    },
+    {
+        "id": "00034",
+        "prompt": "A woman examines a diamond.",
+        "prompt in Chinese": "一位女士在检查一颗钻石。"
+    },
+    {
+        "id": "00035",
+        "prompt": "A small cat waves a wand.",
+        "prompt in Chinese": "一只小猫挥动魔法棒。"
+    },
+    {
+        "id": "00036",
+        "prompt": "A boy spots a colorful bird.",
+        "prompt in Chinese": "一位男孩发现了一只五彩缤纷的鸟。"
+    },
+    {
+        "id": "00037",
+        "prompt": "A sailor hoists a sail.",
+        "prompt in Chinese": "一位水手升起帆。"
+    },
+    {
+        "id": "00038",
+        "prompt": "A bird nocks an arrow.",
+        "prompt in Chinese": "一只鸟正在准备射箭。"
+    },
+    {
+        "id": "00039",
+        "prompt": "A cat basking in the sunlight by a window.",
+        "prompt in Chinese": "一只猫在窗边阳光下晒太阳。"
+    },
+    {
+        "id": "00040",
+        "prompt": "A red bicycle parked against a brightly painted wall.",
+        "prompt in Chinese": "一辆红色自行车靠在一堵鲜艳的墙壁上。"
+    },
+    {
+        "id": "00041",
+        "prompt": "A teapot steaming gently on a rustic kitchen table.",
+        "prompt in Chinese": "一壶茶壶在乡村厨房的桌子上轻轻地冒着热气。"
+    },
+    {
+        "id": "00042",
+        "prompt": "Old boots resting on a muddy trail in the woods.",
+        "prompt in Chinese": "旧靴子停放在树林中的泥泞小径上。"
+    },
+    {
+        "id": "00043",
+        "prompt": "A yellow taxi waiting outside a modern glass building.",
+        "prompt in Chinese": "一辆黄色出租车停在现代玻璃建筑外。"
+    },
+    {
+        "id": "00044",
+        "prompt": "An armchair with a knit blanket draped over it, next to a fireplace.",
+        "prompt in Chinese": "一把扶手椅上搭着一条针织毯子，旁边是一个壁炉。"
+    },
+    {
+        "id": "00045",
+        "prompt": "A colorful mural of a bird adorning a city alley.",
+        "prompt in Chinese": "一幅五颜六色的鸟儿壁画装饰着城市的小巷。"
+    },
+    {
+        "id": "00046",
+        "prompt": "An old lantern swaying from a tree branch in a foggy forest.",
+        "prompt in Chinese": "一个旧灯笼在雾蒙蒙的森林里的树枝上摇晃。"
+    },
+    {
+        "id": "00047",
+        "prompt": "A garden path lined with glowing stones under a twilight sky.",
+        "prompt in Chinese": "黄昏天空下，一条园径两旁点缀着发光的石头。"
+    },
+    {
+        "id": "00048",
+        "prompt": "A grand fountain surrounded by historic buildings in a town square.",
+        "prompt in Chinese": "一个宏伟的喷泉被城镇广场上的历史建筑包围。"
+    },
+    {
+        "id": "00049",
+        "prompt": "A cavern lit by shafts of light revealing hidden underground pools.",
+        "prompt in Chinese": "光束照亮的洞穴内揭示了隐藏的地下水池。"
+    },
+    {
+        "id": "00050",
+        "prompt": "Boats laden with fruits floating on a river under a dual sunset.",
+        "prompt in Chinese": "装满水果的小船在双日落下的河上漂浮。"
+    },
+    {
+        "id": "00051",
+        "prompt": "Shelves carved from tree branches in a mystical library.",
+        "prompt in Chinese": "一个神秘图书馆里用树枝雕刻的书架。"
+    },
+    {
+        "id": "00052",
+        "prompt": "Ancient buildings juxtaposed with sleek, futuristic transports.",
+        "prompt in Chinese": "古老建筑与光滑的未来交通工具形成对比。"
+    },
+    {
+        "id": "00053",
+        "prompt": "A village covered in snow, illuminated by the northern lights.",
+        "prompt in Chinese": "一个被雪覆盖的村庄，在北极光的照耀下发亮。"
+    },
+    {
+        "id": "00054",
+        "prompt": "An oasis mirage with an ice palace reflecting moonlight in the desert.",
+        "prompt in Chinese": "沙漠中的绿洲幻觉，冰宫在月光下映照。"
+    },
+    {
+        "id": "00055",
+        "prompt": "An asteroid spaceport bustling with aliens and spacecraft.",
+        "prompt in Chinese": "一个繁忙的小行星太空港，充满外星人和宇宙飞船。"
+    },
+    {
+        "id": "00056",
+        "prompt": "A small dog dozing in a patch of sunlight.",
+        "prompt in Chinese": "一只小狗在一片阳光下打盹。"
+    },
+    {
+        "id": "00057",
+        "prompt": "A single rose growing through a crack.",
+        "prompt in Chinese": "一朵玫瑰从裂缝中生长出来。"
+    },
+    {
+        "id": "00058",
+        "prompt": "A quaint bookshop.",
+        "prompt in Chinese": "一家古雅的书店。"
+    },
+    {
+        "id": "00059",
+        "prompt": "A lone lighthouse standing guard on a rocky coastline.",
+        "prompt in Chinese": "一座独立的灯塔守卫着岩石海岸。"
+    },
+    {
+        "id": "00060",
+        "prompt": "A butterfly perched on a wildflower in a meadow.",
+        "prompt in Chinese": "一只蝴蝶停留在草甸上的野花上。"
+    },
+    {
+        "id": "00061",
+        "prompt": "A pilot with aviator sunglasses.",
+        "prompt in Chinese": "一位戴着飞行员太阳镜的飞行员。"
+    },
+    {
+        "id": "00062",
+        "prompt": "A baker with a cherry pin on a polka dot apron.",
+        "prompt in Chinese": "一位在圆点围裙上别着樱桃别针的面包师。"
+    },
+    {
+        "id": "00063",
+        "prompt": "A knight with a feather plume helmet by a stone tower.",
+        "prompt in Chinese": "一个穿着羽毛羽饰头盔的骑士站在石塔旁。"
+    },
+    {
+        "id": "00064",
+        "prompt": "A scientist with a gear-shaped ring in a steampunk lab.",
+        "prompt in Chinese": "一个戴着齿轮形戒指的科学家在蒸汽朋克实验室里。"
+    },
+    {
+        "id": "00065",
+        "prompt": "A swan with a silver anklet on a crystal lake.",
+        "prompt in Chinese": "一只在水晶湖上戴着银色脚链的天鹅。"
+    },
+    {
+        "id": "00066",
+        "prompt": "A ninja with a dragon emblem in a bamboo grove.",
+        "prompt in Chinese": "一位在竹林中带着龙徽章的忍者。"
+    },
+    {
+        "id": "00067",
+        "prompt": "A pirate with a skull earring on a treasure island.",
+        "prompt in Chinese": "在宝藏岛上,戴着骷髅耳环的海盗。"
+    },
+    {
+        "id": "00068",
+        "prompt": "A wizard with a starry cape under a full moon.",
+        "prompt in Chinese": "在满月下,穿着星空斗篷的巫师。"
+    },
+    {
+        "id": "00069",
+        "prompt": "A fairy with butterfly wings in a dewy meadow.",
+        "prompt in Chinese": "露水草地上长着蝴蝶翅膀的仙女。"
+    },
+    {
+        "id": "00070",
+        "prompt": "A cheerleader with a star badge at a sports field.",
+        "prompt in Chinese": "一位在运动场上佩戴星形徽章的啦啦队长。"
+    },
+    {
+        "id": "00071",
+        "prompt": "A samurai with a silk sash in a cherry blossom garden.",
+        "prompt in Chinese": "一位在樱花园中佩戴丝绸腰带的武士。"
+    },
+    {
+        "id": "00072",
+        "prompt": "An astronaut with a flag patch drifting in space.",
+        "prompt in Chinese": "一位在太空中飘荡的带着国旗补丁的宇航员。"
+    },
+    {
+        "id": "00073",
+        "prompt": "A playful kitten with a bell collar on the left, batting at a fluttering butterfly on the right.",
+        "prompt in Chinese": "左边一只戴着铃铛项圈的顽皮小猫，正在用爪子拍打右边飞舞的蝴蝶。"
+    },
+    {
+        "id": "00074",
+        "prompt": "A cheerful dog with a frisbee in its mouth on the right, chasing a rolling ball on the left.",
+        "prompt in Chinese": "右边一只嘴里叼着飞盘的快乐的狗，正在追赶左边滚动的球。"
+    },
+    {
+        "id": "00075",
+        "prompt": "An eagle with a silver band on its leg on the right, soaring past a towering pine tree on the left.",
+        "prompt in Chinese": "右侧是一只腿上缠着银带的雄鹰，它从左侧高耸的松树旁翱翔而过。"
+    },
+    {
+        "id": "00076",
+        "prompt": "A golden retriever sitting to the left of a blue picket fence.",
+        "prompt in Chinese": "一只金毛犬坐在蓝色栅栏的左边。"
+    },
+    {
+        "id": "00077",
+        "prompt": "A small pond with a single swan gliding towards the left.",
+        "prompt in Chinese": "一个小池塘里，一只天鹅向左滑行。"
+    },
+    {
+        "id": "00078",
+        "prompt": "A white sailboat drifting towards the left on a calm lake.",
+        "prompt in Chinese": "一只白色帆船在平静的湖面上向左漂移。"
+    },
+    {
+        "id": "00079",
+        "prompt": "A single red rose in a vase on the right side of a windowsill.",
+        "prompt in Chinese": "一个窗台右侧的花瓶中有一朵红玫瑰。"
+    },
+    {
+        "id": "00080",
+        "prompt": "A blue mailbox standing to the left of a winding garden path.",
+        "prompt in Chinese": "一封蓝色邮筒立在蜿蜒花园小径的左侧。"
+    },
+    {
+        "id": "00081",
+        "prompt": "A snowy owl perched to the right on a frost-covered branch.",
+        "prompt in Chinese": "一只雪白的猫头鹰栖息在右侧结霜的树枝上。"
+    },
+    {
+        "id": "00082",
+        "prompt": "A vintage clock on a mantelpiece leaning slightly to the left.",
+        "prompt in Chinese": "壁炉架上的一只古董钟微微向左倾斜。"
+    },
+    {
+        "id": "00083",
+        "prompt": "A cat sitting to the left of a bookshelf.",
+        "prompt in Chinese": "一只猫坐在书架的左侧。"
+    },
+    {
+        "id": "00084",
+        "prompt": "A crystal-clear lake reflecting a mountainous landscape.",
+        "prompt in Chinese": "一片清澈的湖面反射出山峦的景象。"
+    },
+    {
+        "id": "00085",
+        "prompt": "A row of colorful townhouses on a sunny street.",
+        "prompt in Chinese": "阳光下一排色彩缤纷的城镇房屋。"
+    },
+    {
+        "id": "00086",
+        "prompt": "An ancient scroll unrolled on a wooden desk.",
+        "prompt in Chinese": "一卷古老的卷轴展开在木制书桌上。"
+    },
+    {
+        "id": "00087",
+        "prompt": "A hammock strung between two palm trees on a beach.",
+        "prompt in Chinese": "一张吊床系在沙滩上两棵棕榈树之间。"
+    },
+    {
+        "id": "00088",
+        "prompt": "A narrow alleyway illuminated by strings of fairy lights.",
+        "prompt in Chinese": "一条狭窄的巷道被串串仙灯照亮。"
+    },
+    {
+        "id": "00089",
+        "prompt": "A star-filled sky over a desert campsite.",
+        "prompt in Chinese": "沙漠营地上方的满天繁星。"
+    },
+    {
+        "id": "00090",
+        "prompt": "A red bicycle against a blue wall.",
+        "prompt in Chinese": "一辆红色自行车靠在蓝色墙壁上。"
+    },
+    {
+        "id": "00091",
+        "prompt": "Worn-out boots sit on a muddy path, the dense forest looming around them.",
+        "prompt in Chinese": "磨损的靴子在泥泞的小径上，周围是茂密的森林。"
+    },
+    {
+        "id": "00092",
+        "prompt": "A bright yellow taxi parked in front, a tall glass building rising behind it amidst clouds.",
+        "prompt in Chinese": "一辆明黄色的出租车停在前方，身后是耸入云端的高大玻璃建筑。"
+    },
+    {
+        "id": "00093",
+        "prompt": "A vibrant mural depicts a giant parrot, urban apartment buildings serving as its canvas.",
+        "prompt in Chinese": "一幅生动的壁画描绘了一只巨大的鹦鹉，城市的公寓楼作为其画布。"
+    },
+    {
+        "id": "00094",
+        "prompt": "A whimsical garden features glowing flowers, luminescent stones lining the pathway beneath.",
+        "prompt in Chinese": "一个异想天开的花园里，夜光花朵绽放，路径下铺满了发光的石头。"
+    },
+    {
+        "id": "00095",
+        "prompt": "A cat lounging lazily on a sunny windowsill.",
+        "prompt in Chinese": "一只猫慵懒地躺在阳光明媚的窗台上。"
+    },
+    {
+        "id": "00096",
+        "prompt": "A painter delicately brushing color onto a canvas in a bright, airy studio.",
+        "prompt in Chinese": "一位画家在明亮、通风的工作室内细致地给画布上色。"
+    },
+    {
+        "id": "00097",
+        "prompt": "A chef fervently preparing sushi in a bustling kitchen.",
+        "prompt in Chinese": "一位厨师在繁忙的厨房里热火朝天地准备寿司。"
+    },
+    {
+        "id": "00098",
+        "prompt": "A vintage car cruising down a coastal road at sunset.",
+        "prompt in Chinese": "夕阳西下，一辆老爷车在沿海公路上行驶。"
+    },
+    {
+        "id": "00099",
+        "prompt": "A group of children playing hide-and-seek in a blooming garden.",
+        "prompt in Chinese": "一群孩子在鲜花盛开的花园里捉迷藏。"
+    },
+    {
+        "id": "00100",
+        "prompt": "A librarian shelving books in a quiet, expansive library.",
+        "prompt in Chinese": "一位图书管理员在宁静、宽敞的图书馆里整理书籍。"
+    },
+    {
+        "id": "00101",
+        "prompt": "An astronaut floating gracefully in the vastness of space outside a spacecraft.",
+        "prompt in Chinese": "一位宇航员在宇宙飞船外的浩瀚太空中优雅地漂浮。"
+    },
+    {
+        "id": "00102",
+        "prompt": "A little girl tuning a guitar before a concert in a dimly lit venue.",
+        "prompt in Chinese": "一个小女孩在昏暗的场地中调音吉他，准备音乐会。"
+    },
+    {
+        "id": "00103",
+        "prompt": "A pencil holder with more pens than pencils.",
+        "prompt in Chinese": "一个笔筒里中的钢笔比铅笔多。"
+    },
+    {
+        "id": "00104",
+        "prompt": "A building with more doors than windows.",
+        "prompt in Chinese": "一个门比窗户多的建筑。"
+    },
+    {
+        "id": "00105",
+        "prompt": "A couple where the taller one hugs the shorter from behind.",
+        "prompt in Chinese": "一对情侣，个子高从后面抱住个子矮。"
+    },
+    {
+        "id": "00106",
+        "prompt": "The sky teems with more birds than the number of fish visible in the lake below.",
+        "prompt in Chinese": "天空中的鸟比湖里的鱼多。"
+    },
+    {
+        "id": "00107",
+        "prompt": "On the party table, chocolate chip cookies outnumber the frosted cupcakes.",
+        "prompt in Chinese": "派对桌上，巧克力饼干的数量超过了纸杯蛋糕。"
+    },
+    {
+        "id": "00108",
+        "prompt": "A table setting with fewer forks than bowls.",
+        "prompt in Chinese": "餐桌上，叉子的数量少于碗。"
+    },
+    {
+        "id": "00109",
+        "prompt": "In a gym, there are two people, the one closer to the table is resting and the one further away from the table is lifting weights.",
+        "prompt in Chinese": "在健身房里，有两个人，离桌子近的在休息，离桌子远的在举重。"
+    },
+    {
+        "id": "00110",
+        "prompt": "A larger person in yellow clothing and a smaller person in a different color.",
+        "prompt in Chinese": "一个穿黄色衣服的大个子和一个穿不同颜色衣服的小个子。"
+    },
+    {
+        "id": "00111",
+        "prompt": "An animal with legs notably longer than a nearby person's.",
+        "prompt in Chinese": "一只动物的腿明显比附近的人的腿长。"
+    },
+    {
+        "id": "00112",
+        "prompt": "A forest landscape with more birds in the sky than trees on the ground.",
+        "prompt in Chinese": "一个森林景观，天空中的鸟比地面上的树多。"
+    },
+    {
+        "id": "00113",
+        "prompt": "A workspace with more computers than computer mice.",
+        "prompt in Chinese": "一个工作空间里，电脑比鼠标多。"
+    },
+    {
+        "id": "00114",
+        "prompt": "An interior space with stools outnumbering the people.",
+        "prompt in Chinese": "一个室内空间里，凳子的数量超过了人数。"
+    },
+    {
+        "id": "00115",
+        "prompt": "A scene where there are more hats than stools.",
+        "prompt in Chinese": "一个场景里，帽子比凳子多。"
+    },
+    {
+        "id": "00116",
+        "prompt": "A kitchen with a larger quantity of milk than juice.",
+        "prompt in Chinese": "一个厨房里，牛奶的数量比果汁多。"
+    },
+    {
+        "id": "00117",
+        "prompt": "In a peaceful pond, there are more fish in the water than frogs on the lotus leaves.",
+        "prompt in Chinese": "在一个宁静的池塘中，水中的鱼比荷叶上的青蛙多。"
+    },
+    {
+        "id": "00118",
+        "prompt": "City view, the tower on the left is taller than the one on the right.",
+        "prompt in Chinese": "城市景观，左边的塔楼比右边的高。"
+    },
+    {
+        "id": "00119",
+        "prompt": "The sun illuminates the garden, a shovel sticks in the soil, and gloves lay on the bench.",
+        "prompt in Chinese": "阳光照亮了花园，铲子插在土里，手套放在长椅上。"
+    },
+    {
+        "id": "00120",
+        "prompt": "A fish glides through the air, while a bird plunges underwater.",
+        "prompt in Chinese": "鱼儿在空中滑翔，鸟儿在水下飞翔。"
+    },
+    {
+        "id": "00121",
+        "prompt": "A map unfolds widely on the wall and a compass points northward.",
+        "prompt in Chinese": "一幅地图在墙上展开，指南针指向北方。"
+    },
+    {
+        "id": "00122",
+        "prompt": "Children are swinging on the swings while their parents watch from nearby, and a puppy frolics around them.",
+        "prompt in Chinese": "孩子们在秋千上荡秋千，他们的父母在旁边观看，一只小狗在他们身边嬉戏。"
+    },
+    {
+        "id": "00123",
+        "prompt": "Three flowers on the ground: one red, another yellow, and the third blue.",
+        "prompt in Chinese": "地上有三朵花：一朵红色，另一朵黄色，第三朵蓝色。"
+    },
+    {
+        "id": "00124",
+        "prompt": "There are two red flowers on the table and a few yellow flowers under the table.",
+        "prompt in Chinese": "桌子上有两朵红花，桌子下有一些黄花。"
+    },
+    {
+        "id": "00125",
+        "prompt": "A strange landscape, the ground on the left is covered with snow but the ground on the right is covered with green grass.",
+        "prompt in Chinese": "一片奇怪的景观，左边的地面覆盖着雪，右边的地上却长满了绿草。"
+    },
+    {
+        "id": "00126",
+        "prompt": "A boat glides across the ocean, dolphins leaping beside it and seagulls soaring overhead.",
+        "prompt in Chinese": "一条船在海洋上滑行，海豚在旁跳跃，海鸥在头顶飞翔。"
+    },
+    {
+        "id": "00127",
+        "prompt": "A painting hangs on the wall, a vase rests on the table, and sunlight streams through the window.",
+        "prompt in Chinese": "一幅画挂在墙上，一只花瓶放在桌子上，阳光透过窗户洒进来。"
+    },
+    {
+        "id": "00128",
+        "prompt": "A hat is perched on the table and a coat is draped on the chair.",
+        "prompt in Chinese": "一顶帽子放在桌子上，一件外套搭在椅子上。"
+    },
+    {
+        "id": "00129",
+        "prompt": "A garden scene, weeds growing on the left side of the garden while the right side is neatly manicured.",
+        "prompt in Chinese": "一个花园场景，花园的左边长满了杂草，而右边则修剪得整整齐齐。"
+    },
+    {
+        "id": "00130",
+        "prompt": "In one bedroom the pillows were plump and the blankets neatly folded.",
+        "prompt in Chinese": "一间卧室里，枕头蓬松，被子叠得整整齐齐。"
+    },
+    {
+        "id": "00131",
+        "prompt": "A guitar rests against a chair and a drum set stands nearby.",
+        "prompt in Chinese": "一把吉他靠在椅子上，一套架子鼓立在旁边。"
+    },
+    {
+        "id": "00132",
+        "prompt": "In a snowy landscape, a fox dashes across the terrain, while nearby, a dog sits calmly.",
+        "prompt in Chinese": "在一片雪景中，一只狐狸飞奔而过，旁边一只狗安静地坐着"
+    },
+    {
+        "id": "00133",
+        "prompt": "The sun sets on the left while the moon rises on the right.",
+        "prompt in Chinese": "太阳在左边落下，月亮在右边升起。"
+    },
+    {
+        "id": "00134",
+        "prompt": "Two lampshades flank a bed: the one on the left is tilted, while the one on the right stands straight.",
+        "prompt in Chinese": "两个灯罩矗立在床的两侧：左边的倾斜，而右边的直立。"
+    },
+    {
+        "id": "00135",
+        "prompt": "A window consists of two panes of glass, the left one is broken but the right one is intact.",
+        "prompt in Chinese": "一扇窗户由两块玻璃组成，左边的玻璃碎了，右边的却完好无损。"
+    },
+    {
+        "id": "00136",
+        "prompt": "A piece of white paper on the grass, the left side of the paper is filled with writing while the right side is empty.",
+        "prompt in Chinese": "草地上的一张白纸，左边写满了字，右边却空空如也。"
+    },
+    {
+        "id": "00137",
+        "prompt": "A child studying at a table, the left side of the table is neat, but the right side is cluttered.",
+        "prompt in Chinese": "一个孩子在桌子旁学习，桌子左边整洁，右边杂乱。"
+    },
+    {
+        "id": "00138",
+        "prompt": "At the center of the table,  four gleaming silver forks encircle a solitary porcelain plate.",
+        "prompt in Chinese": "在桌子中央，四把闪亮的银叉围绕着一个瓷盘。"
+    },
+    {
+        "id": "00139",
+        "prompt": "Two cats playing with a single ball.",
+        "prompt in Chinese": "两只猫在玩一个球。"
+    },
+    {
+        "id": "00140",
+        "prompt": "Five cylindrical mugs beside two rectangular napkins.",
+        "prompt in Chinese": "五个圆柱形马克杯，旁边是两块长方形餐巾。"
+    },
+    {
+        "id": "00141",
+        "prompt": "Four flowers blooming, two beside a bench.",
+        "prompt in Chinese": "四朵盛开的花，两朵在长椅旁边。"
+    },
+    {
+        "id": "00142",
+        "prompt": "Six oval stones and four triangular sails.",
+        "prompt in Chinese": "六块椭圆形的石头和四个三角形的帆。"
+    },
+    {
+        "id": "00143",
+        "prompt": "One orange kite and four white seagulls flying above the beach.",
+        "prompt in Chinese": "一个橙色的风筝和四只白色的海鸥在海滩上空飞翔。"
+    },
+    {
+        "id": "00144",
+        "prompt": "Five enthusiastic athletes and one tired coach.",
+        "prompt in Chinese": "五个充满热情的运动员和一个疲惫的教练。"
+    },
+    {
+        "id": "00145",
+        "prompt": "Two orange pumpkins and four flying black bats.",
+        "prompt in Chinese": "两个橙色南瓜和四只飞舞的黑蝙蝠。"
+    },
+    {
+        "id": "00146",
+        "prompt": "One sun setting behind two tall buildings.",
+        "prompt in Chinese": "一轮夕阳落在两座高楼的后面。"
+    },
+    {
+        "id": "00147",
+        "prompt": "Two orange pumpkins behind a group of five spooky Halloween candles.",
+        "prompt in Chinese": "两个橙色的南瓜在五支诡异的万圣节蜡烛后面。"
+    },
+    {
+        "id": "00148",
+        "prompt": "One content rabbit and six tired turtles.",
+        "prompt in Chinese": "一个满足的兔子和六只疲惫的乌龟。"
+    },
+    {
+        "id": "00149",
+        "prompt": "Eight wavy lines are under three polygonal signs.",
+        "prompt in Chinese": "三个多边形的标志下面有八条波浪线。"
+    },
+    {
+        "id": "00150",
+        "prompt": "Three pink peonies and four white daisies in a garden.",
+        "prompt in Chinese": "花园里有三朵粉红色的牡丹和四朵白色的雏菊。"
+    },
+    {
+        "id": "00151",
+        "prompt": "Two red balloons and three white clouds floating in the blue sky.",
+        "prompt in Chinese": "蓝天上飘着两个红气球和三朵白云。"
+    },
+    {
+        "id": "00152",
+        "prompt": "Two grey wolves howling and three deer watching.",
+        "prompt in Chinese": "两只灰狼在嚎叫，三只小鹿在观望。"
+    },
+    {
+        "id": "00153",
+        "prompt": "Four disappointed customers and two content sellers.",
+        "prompt in Chinese": "四个失望的顾客和两个满意的卖家。"
+    },
+    {
+        "id": "00154",
+        "prompt": "Four nervous mice and one confident cat.",
+        "prompt in Chinese": "四只紧张的老鼠和一只自信的猫。"
+    },
+    {
+        "id": "00155",
+        "prompt": "Three books are stacked on top of each other, with the red one at the bottom, the yellow one in the middle, and the blue one on top.",
+        "prompt in Chinese": "三本书叠在一起，红色的书在最下面，黄色的书在中间，蓝色的书在最上面。。"
+    },
+    {
+        "id": "00156",
+        "prompt": "One bird singing, two flowers swaying.",
+        "prompt in Chinese": "一只鸟在唱歌，两朵花在摇摆。"
+    },
+    {
+        "id": "00157",
+        "prompt": "Five relaxed students but one overwhelmed teacher.",
+        "prompt in Chinese": "五个放松的学生和一个不堪重负的老师。"
+    },
+    {
+        "id": "00158",
+        "prompt": "One ecstatic painter in front of four confused muses.",
+        "prompt in Chinese": "一个欣喜若狂的画家面对四个困惑的缪斯女神。"
+    },
+    {
+        "id": "00159",
+        "prompt": "One person talks on the phone animatedly while the other sits sadly.",
+        "prompt in Chinese": "一个人兴致勃勃地讲电话，另一个人愁眉苦脸地坐着。"
+    },
+    {
+        "id": "00160",
+        "prompt": "An excited cat is on the left and an upset cat is on the right",
+        "prompt in Chinese": "一只兴奋的猫在左边，一只不高兴的猫在右边"
+    },
+    {
+        "id": "00161",
+        "prompt": "A scene with two blue balls amidst many yellow ones.",
+        "prompt in Chinese": "在许多黄色的球中有两个蓝色的球。"
+    },
+    {
+        "id": "00162",
+        "prompt": "Cats playing on the roof, the cat on the left has curly hair, the cat on the right has straight hair",
+        "prompt in Chinese": "猫在屋顶上玩耍，左边的猫是卷毛，右边的猫是直毛"
+    },
+    {
+        "id": "00163",
+        "prompt": "A lone green banana stands out among a cluster of red bananas.",
+        "prompt in Chinese": "在一簇红色的香蕉中，一枝绿色的香蕉格外显眼。"
+    },
+    {
+        "id": "00164",
+        "prompt": "A circular mirror is above a rectangular one.",
+        "prompt in Chinese": "一面圆形镜子在一面长方形镜子的上方。"
+    },
+    {
+        "id": "00165",
+        "prompt": "Some oranges on the left are moldy while an orange on the right is fresh.",
+        "prompt in Chinese": "左边的一些橙子发霉了，而右边的一个橙子是新鲜的。"
+    },
+    {
+        "id": "00166",
+        "prompt": "On display, a long, white dress contrasts sharply with a short, dark dress beside it.",
+        "prompt in Chinese": "展示架上，一条白色长裙与旁边的一条深色短裙形成鲜明对比。"
+    },
+    {
+        "id": "00167",
+        "prompt": "One person makes a humorous face as another watches.",
+        "prompt in Chinese": "一个人做着幽默的表情，另一个人在观看。"
+    },
+    {
+        "id": "00168",
+        "prompt": "An old owl watches as a young owl tries its first flight.",
+        "prompt in Chinese": "一只老猫头鹰观察着一只年轻的猫头鹰尝试第一次飞行。"
+    },
+    {
+        "id": "00169",
+        "prompt": "The girl with glasses is drawing, and the girl without glasses is singing.",
+        "prompt in Chinese": "戴眼镜的女孩在画画，不戴眼镜的女孩在唱歌。"
+    },
+    {
+        "id": "00170",
+        "prompt": "The dog with a leash sits quietly, the other without a leash runs wildly.",
+        "prompt in Chinese": "有绳的狗安静地坐着，没绳的狗疯狂地跑着。"
+    },
+    {
+        "id": "00171",
+        "prompt": "The smiling child gives an apple to the frowning child.",
+        "prompt in Chinese": "微笑的孩子给皱眉的孩子一个苹果。"
+    },
+    {
+        "id": "00172",
+        "prompt": "The brown dog chases the black dog around the tree.",
+        "prompt in Chinese": "棕色的狗绕着树追着黑色的狗。"
+    },
+    {
+        "id": "00173",
+        "prompt": "In the supermarket, a man with glasses pays a man without glasses.",
+        "prompt in Chinese": "在超市里，一个戴眼镜的男人付钱给一个不戴眼镜的男人。"
+    },
+    {
+        "id": "00174",
+        "prompt": "There are three men, the one in the center is jumping, the others are standing.",
+        "prompt in Chinese": "有三个人，中间的人在跳，其他人站着。"
+    },
+    {
+        "id": "00175",
+        "prompt": "A happy woman is on the right of a sad woman.",
+        "prompt in Chinese": "一位快乐的女士在一位悲伤的女士的右边。"
+    },
+    {
+        "id": "00176",
+        "prompt": "The two lay in bed, the long-haired one asleep, the short-haired one still awake.",
+        "prompt in Chinese": "两个人躺在床上，长发的一个睡着了，短发的一个还醒着。"
+    },
+    {
+        "id": "00177",
+        "prompt": "An injured man sitting on the ground with a man to his right who is helping him.",
+        "prompt in Chinese": "一位受伤的男士坐在地上，他右边有一个正在帮助他的男士。"
+    },
+    {
+        "id": "00178",
+        "prompt": "The larger person wears a yellow hat and the smaller person does not.",
+        "prompt in Chinese": "较大的人戴着黄色的帽子，较小的人没有戴。"
+    },
+    {
+        "id": "00179",
+        "prompt": "Two people are running, the person with red legs is running quite slowly and the yellow legged one runs faster.",
+        "prompt in Chinese": "两个人在奔跑，红腿的人跑得很慢，黄腿的人跑得更快。"
+    },
+    {
+        "id": "00180",
+        "prompt": "Adjacent houses stand side by side; the left one sports a chimney, while the right one has none.",
+        "prompt in Chinese": "相邻的房子并排而立，左边的房子有烟囱，右边的房子没有。"
+    },
+    {
+        "id": "00181",
+        "prompt": "A bird chirping melodiously on the right, with another listening intently on the left.",
+        "prompt in Chinese": "一只鸟在右边婉转地鸣叫，另一只鸟在左边专注地倾听。"
+    },
+    {
+        "id": "00182",
+        "prompt": "A single snowflake falls gracefully among others swirling chaotically in the wind.",
+        "prompt in Chinese": "一片雪花优雅地飘落在随风乱飞的雪花中。"
+    },
+    {
+        "id": "00183",
+        "prompt": "An old artist holding a paintbrush faces a young artist wielding a pencil.",
+        "prompt in Chinese": "一位拿着画笔的老艺术家面对着一位手持铅笔的年轻艺术家。"
+    },
+    {
+        "id": "00184",
+        "prompt": "Among a group of pastel-colored balloons, one stands out in vibrant red.",
+        "prompt in Chinese": "在一群柔和色彩的气球中，一个红色的气球格外显眼。"
+    },
+    {
+        "id": "00185",
+        "prompt": "A runner in blue shoes speeds past another in red shoes.",
+        "prompt in Chinese": "一位穿着蓝色鞋子的跑步者从另一位穿着红色鞋子的跑步者身边飞驰而过。"
+    },
+    {
+        "id": "00186",
+        "prompt": "A tailless, not black, cat is sitting.",
+        "prompt in Chinese": "一只没有尾巴的且非黑色的猫正坐着。"
+    },
+    {
+        "id": "00187",
+        "prompt": "A smiling girl with short hair and no glasses.",
+        "prompt in Chinese": "一个短发不戴眼镜的微笑女孩。"
+    },
+    {
+        "id": "00188",
+        "prompt": "A bookshelf with no books, only a single red vase.",
+        "prompt in Chinese": "书架上没有书，只有一个红色花瓶。"
+    },
+    {
+        "id": "00189",
+        "prompt": "A bird with no feathers on its head, perched alone.",
+        "prompt in Chinese": "一只头上没有羽毛的鸟，孤独地栖息着。"
+    },
+    {
+        "id": "00190",
+        "prompt": "A car, not red, without its front wheels, parked.",
+        "prompt in Chinese": "一辆车，不是红色的，没有前轮，停在那里。"
+    },
+    {
+        "id": "00191",
+        "prompt": "A yellow bird sings, a cat does not sing.",
+        "prompt in Chinese": "一只黄色的鸟在唱歌，一只猫不唱歌。"
+    },
+    {
+        "id": "00192",
+        "prompt": "A pair of glasses, but no lenses.",
+        "prompt in Chinese": "一副眼镜框，但没有镜片。"
+    },
+    {
+        "id": "00193",
+        "prompt": "A colorful skirt has an uncolorful hem.",
+        "prompt in Chinese": "一条有着一个素色的下摆的彩色的裙子。"
+    },
+    {
+        "id": "00194",
+        "prompt": "A plate with no food, only a fork and a knife.",
+        "prompt in Chinese": "一个盘子上没有食物，只有一把叉子和一把刀。"
+    },
+    {
+        "id": "00195",
+        "prompt": "A book on the desk isn't open and a book below the desk is open.",
+        "prompt in Chinese": "一本在桌子上的书没有被打开，一本在桌子下的书是打开的。"
+    },
+    {
+        "id": "00196",
+        "prompt": "A person without a hat pays a person with a hat.",
+        "prompt in Chinese": "没有戴帽子的人付钱给戴帽子的人。"
+    },
+    {
+        "id": "00197",
+        "prompt": "The larger person wears blue and the smaller person does not.",
+        "prompt in Chinese": "体型较大的人穿蓝色，较小的人没有。"
+    },
+    {
+        "id": "00198",
+        "prompt": "six people wear white shirts and no people wear red shirts.",
+        "prompt in Chinese": "六个人穿白衬衫，没有人穿红衬衫。"
+    },
+    {
+        "id": "00199",
+        "prompt": "A cat without visible ears is riding.",
+        "prompt in Chinese": "一只看不见耳朵的猫在骑行。"
+    },
+    {
+        "id": "00200",
+        "prompt": "Four elephants, no giraffes.",
+        "prompt in Chinese": "四只大象，没有长颈鹿。"
+    },
+    {
+        "id": "00201",
+        "prompt": "two people; the one on the right has long hair and the one on the left doesn't.",
+        "prompt in Chinese": "两个人；右边的那个有长发，左边的那个没有。"
+    },
+    {
+        "id": "00202",
+        "prompt": "A person with short hair is crying while a person with long hair is not.",
+        "prompt in Chinese": "一位短发的人在哭泣，而一位长发的人没有哭。"
+    },
+    {
+        "id": "00203",
+        "prompt": "the pet on the right is blue and the one on the left is not.",
+        "prompt in Chinese": "右边的宠物是蓝色的，左边的宠物不是。"
+    },
+    {
+        "id": "00204",
+        "prompt": "a person without a hat pushes a person with a hat sitting in a box.",
+        "prompt in Chinese": "一个没有戴帽子的人推着一个坐在盒子里的戴帽子的人。"
+    },
+    {
+        "id": "00205",
+        "prompt": "In a race between a tortoise and a hare, the tortoise takes a nap, but the hare does not.",
+        "prompt in Chinese": "在乌龟和兔子的比赛中，乌龟在打盹，但兔子没有。"
+    },
+    {
+        "id": "00206",
+        "prompt": "There are some apples on the table, no oranges.",
+        "prompt in Chinese": "桌子上有一些苹果，没有橙子。"
+    },
+    {
+        "id": "00207",
+        "prompt": "A garden where flowers grow out of pots without soil.",
+        "prompt in Chinese": "一个花园里，花朵从没有土壤的盆里生长出来。"
+    },
+    {
+        "id": "00208",
+        "prompt": "A garden with flowers, but no bees to be seen.",
+        "prompt in Chinese": "一个有花的花园，但看不到蜜蜂。"
+    },
+    {
+        "id": "00209",
+        "prompt": "A bookshelf with no books, only picture frames.",
+        "prompt in Chinese": "一个书架上没有书，只有相框。"
+    },
+    {
+        "id": "00210",
+        "prompt": "A car drives down the road without wheels, floating above the ground.",
+        "prompt in Chinese": "一辆汽车在路上行驶，没有轮子，漂浮在地面上。"
+    },
+    {
+        "id": "00211",
+        "prompt": "The tallest tree in the forest has no leaves, while the smallest one is lush and green.",
+        "prompt in Chinese": "森林中最高的树没有叶子，而最小的树却郁郁葱葱。"
+    },
+    {
+        "id": "00212",
+        "prompt": "A car moves forward but a bicycle doesn't.",
+        "prompt in Chinese": "一辆车在向前行驶，一辆自行车没有。"
+    },
+    {
+        "id": "00213",
+        "prompt": "A vase with water, but no flowers to nourish.",
+        "prompt in Chinese": "花瓶有水，却无花滋润。"
+    },
+    {
+        "id": "00214",
+        "prompt": "A snowman with a hat,  no scarf around its neck.",
+        "prompt in Chinese": "一个带帽子的雪人，脖子上没有围巾。"
+    },
+    {
+        "id": "00215",
+        "prompt": "A mountain with no snow, under a bright sky.",
+        "prompt in Chinese": "明亮的天空下，一座没有雪的山。"
+    },
+    {
+        "id": "00216",
+        "prompt": "A cat sleeps peacefully in a dog's bed, while the dog has no choice but to nap on the floor.",
+        "prompt in Chinese": "一只猫在狗的床上安静地睡觉，而狗只能在地板上打盹。"
+    },
+    {
+        "id": "00217",
+        "prompt": "A beach with no people, no shells.",
+        "prompt in Chinese": "一个没有人、也没有贝壳的海滩。"
+    },
+    {
+        "id": "00218",
+        "prompt": "A tree with no leaves, standing in a field of green.",
+        "prompt in Chinese": "一棵没有叶子的树，矗立在绿茵茵的田野中。"
+    },
+    {
+        "id": "00219",
+        "prompt": "A modern home office setup, a computer monitor on the desk showing a digital calendar with 'Meeting at 3 PM' highlighted.",
+        "prompt in Chinese": "一个现代家庭办公室布置，桌子上的电脑显示器显示着一个数字日历，其中'Meeting at 3 PM'被突出显示。"
+    },
+    {
+        "id": "00220",
+        "prompt": "A busy urban intersection, a traffic sign at the roadside displaying 'Speed Limit 30 mph'.",
+        "prompt in Chinese": "一个繁忙的城市十字路口，路边的交通标志显示'Speed Limit 30 mph'。"
+    },
+    {
+        "id": "00221",
+        "prompt": "A typewriter on a wooden desk, paper rolled in displaying the words 'Chapter 1' in classic font.",
+        "prompt in Chinese": "一台打字机放在木桌上，卷着纸张，显示着用经典字体打印的'Chapter 1'字样。"
+    },
+    {
+        "id": "00222",
+        "prompt": "A rustic bakery storefront, the window adorned with a 'Fresh Breads Daily' sign, loaves visible behind the glass.",
+        "prompt in Chinese": "一家乡村面包店的店面，橱窗上挂着'Fresh Breads Daily'的招牌，玻璃后面的面包清晰可见。"
+    },
+    {
+        "id": "00223",
+        "prompt": "A serene beach scene at sunset with 'Paradise Awaits' written in the sand, the ocean gently lapping at the letters.",
+        "prompt in Chinese": "日落时分的宁静海滩场景，沙滩上写着 'Paradise Awaits'，海浪轻轻拍打着字母。"
+    },
+    {
+        "id": "00224",
+        "prompt": "A bustling city street, a neon 'Open 24 Hours' sign glowing above a small diner.",
+        "prompt in Chinese": "一个繁忙的城市街道，一家小餐馆上方闪烁着'Open 24 Hours'的霓虹灯牌。"
+    },
+    {
+        "id": "00225",
+        "prompt": "A snowy mountain peak with a wooden signpost reading 'Summit Trail' against a clear blue sky.",
+        "prompt in Chinese": "湛蓝的天空下，雪山山顶的木质路标上写着'Summit Trail' 。"
+    },
+    {
+        "id": "00226",
+        "prompt": "A garden gate with 'Welcome Friends' painted on a hanging wooden plaque, surrounded by blooming flowers.",
+        "prompt in Chinese": "一个花园大门，挂着一块写着'Welcome Friends' 的木质招牌，周围环绕着盛开的花朵。"
+    },
+    {
+        "id": "00227",
+        "prompt": "An elegant wedding venue, a 'Just Married' banner draped across the back of a vintage car.",
+        "prompt in Chinese": "一个优雅的婚礼场地，一辆复古汽车的后部悬挂着'Just Married'的横幅。"
+    },
+    {
+        "id": "00228",
+        "prompt": "'Book Nook' carved on a small library door, lantern-lit beside.",
+        "prompt in Chinese": "一个小图书馆的门上雕刻着'Book Nook'，旁边点着灯笼。"
+    },
+    {
+        "id": "00229",
+        "prompt": "A 'No Parking' sign on a busy street.",
+        "prompt in Chinese": "繁忙街道上的'No Parking'标志。"
+    },
+    {
+        "id": "00230",
+        "prompt": "A 'Veggie Patch' sign staked in a garden, lush greens around.",
+        "prompt in Chinese": "一块'Veggie Patch'的招牌立在花园里，周围绿意盎然。"
+    },
+    {
+        "id": "00231",
+        "prompt": "'Tea Time' painted on a quaint cafe sign.",
+        "prompt in Chinese": "'Tea Time'写在一个古雅咖啡馆的招牌上。"
+    },
+    {
+        "id": "00232",
+        "prompt": "'Zen Garden' etched into a stone at a peaceful retreat.",
+        "prompt in Chinese": "'Zen Garden'刻在一个宁静的度假胜地的石头上。"
+    },
+    {
+        "id": "00233",
+        "prompt": "'Eco Market' on a banner above a green lifestyle fair.",
+        "prompt in Chinese": "'Eco Market' 横幅挂在一个绿色生活方式展销会的上方。"
+    },
+    {
+        "id": "00234",
+        "prompt": "'Art Center' is spray-painted on the wall of the City Gallery.",
+        "prompt in Chinese": "Art Center'被喷涂在城市画廊的墙上。"
+    },
+    {
+        "id": "00235",
+        "prompt": "'Jazz Night' flashing on a neon sign at the entrance to the Music Lounge.",
+        "prompt in Chinese": "'Jazz Night'在音乐休息室入口处的霓虹灯牌上闪烁。"
+    },
+    {
+        "id": "00236",
+        "prompt": "A sign in park says 'Bike Lane.'",
+        "prompt in Chinese": "公园里的一块牌子上写着'Bike Lane'。"
+    },
+    {
+        "id": "00237",
+        "prompt": "A mystical forest clearing, illuminated by 'Moonlit Path' glowing runes hovering above the ground, guiding wanderers at night.",
+        "prompt in Chinese": "一片神秘的林间空地，'Moonlit Path'的发光符文盘旋在地面上，为夜晚的漫游者指引方向。"
+    },
+    {
+        "id": "00238",
+        "prompt": "An ancient library hidden beneath the earth, 'Secrets of the Ages' inscribed on the archway, books floating around as if by magic.",
+        "prompt in Chinese": "一个隐藏在地下的古老图书馆，'Secrets of the Ages'刻在拱门上，书籍如被施了魔法一样漂浮在周围。"
+    },
+    {
+        "id": "00239",
+        "prompt": "In a mysterious swamp, the flowers are taller than the trees.",
+        "prompt in Chinese": "在神秘的沼泽里，花朵比树木还要高。"
+    },
+    {
+        "id": "00240",
+        "prompt": "A small dog with wings, wearing a bell around its neck that is bigger than itself.",
+        "prompt in Chinese": "一只有翅膀的小狗，脖子上戴着一个比自己还大的铃铛。"
+    },
+    {
+        "id": "00241",
+        "prompt": "A gigantic dog that is taller than the tree next to it.",
+        "prompt in Chinese": "一只巨大的狗，比旁边的树还要高。"
+    },
+    {
+        "id": "00242",
+        "prompt": "A magical flower is taller than the house next to it.",
+        "prompt in Chinese": "一朵神奇的花，比旁边的房子还高。"
+    },
+    {
+        "id": "00243",
+        "prompt": "A green pumpkin is smiling happily, a red pumpkin is sitting sadly.",
+        "prompt in Chinese": "一个绿色的南瓜正开心地微笑，一个红色的南瓜正悲伤地坐着。"
+    },
+    {
+        "id": "00244",
+        "prompt": "In a mysterious forest, the leaves of a green tree shimmer with silvery glow, contrasting the dim leaves of a nearby red tree.",
+        "prompt in Chinese": "在一个神秘的森林里，一棵绿树的叶子闪着银色的光芒，与附近一棵红树暗淡的叶子形成对比。"
+    },
+    {
+        "id": "00245",
+        "prompt": "In a magnificent castle, a red dragon sits and a green dragon flies.",
+        "prompt in Chinese": "在一个宏伟的城堡里，一条红龙坐着，一条绿龙在飞。"
+    },
+    {
+        "id": "00246",
+        "prompt": "A magician holds two books; the left one open, the right one closed.",
+        "prompt in Chinese": "一个魔术师手持两本书；左边的打开，右边的关闭。"
+    },
+    {
+        "id": "00247",
+        "prompt": "A mystical forest at twilight, illuminated by three floating orbs, with one unicorn drinking from a clear stream.",
+        "prompt in Chinese": "暮色中的神秘森林，被三个漂浮的光球照亮，有一只独角兽在清澈的溪流中饮水。"
+    },
+    {
+        "id": "00248",
+        "prompt": "One ancient scroll unfurled inside a cavern, lit by two large crystals emitting a soft glow.",
+        "prompt in Chinese": "一个古老的卷轴在洞穴内展开，被两个发出柔和光芒的巨大水晶照亮。"
+    },
+    {
+        "id": "00249",
+        "prompt": "One pirate ship sailing through space, crewed by five robots.",
+        "prompt in Chinese": "一艘海盗船在太空中航行，船员是五个机器人。"
+    },
+    {
+        "id": "00250",
+        "prompt": "A glowing ancient tree with five lanterns and surrounded by fireflies.",
+        "prompt in Chinese": "一棵发光的古树上挂着五盏灯笼并且被萤火虫环绕。"
+    },
+    {
+        "id": "00251",
+        "prompt": "Three floating islands above one  waterfall in a valley.",
+        "prompt in Chinese": "一个山谷中的瀑布上方有三个漂浮的岛屿。"
+    },
+    {
+        "id": "00252",
+        "prompt": "One phoenix soaring above a mountain, its wings shedding three golden feathers.",
+        "prompt in Chinese": "一只凤凰在山上方翱翔，它的翅膀上脱落三根金色的羽毛。"
+    },
+    {
+        "id": "00253",
+        "prompt": "A table laden with apples and bananas, where all the fruits are green.",
+        "prompt in Chinese": "一张桌子上摆满了苹果和香蕉，所有的水果都是绿色的。"
+    },
+    {
+        "id": "00254",
+        "prompt": "In a modern laboratory, all the computer screens are turned on.",
+        "prompt in Chinese": "在一个现代实验室里，所有的电脑屏幕都开着。"
+    },
+    {
+        "id": "00255",
+        "prompt": "A landscape where every tree is in full bloom, with petals covering the entirety of the ground.",
+        "prompt in Chinese": "一个风景画，每棵树都盛开着花，花瓣覆盖了整个地面。"
+    },
+    {
+        "id": "00256",
+        "prompt": "Inside a library where each book spine displays a unique, intricate pattern.",
+        "prompt in Chinese": "在一个图书馆内，每本书的书脊都展示着独特、精细的图案。"
+    },
+    {
+        "id": "00257",
+        "prompt": "An aquarium where every tank is home to a multitude of colorful fish, swimming in harmony.",
+        "prompt in Chinese": "水族馆里，每个鱼缸里都有许多色彩斑斓的鱼儿，它们和谐地游动。"
+    },
+    {
+        "id": "00258",
+        "prompt": "In a square, several children are playing, each wearing a red T-shirt.",
+        "prompt in Chinese": "在一个广场上,几个孩子正在玩耍,每个人都穿着红色T恤。"
+    },
+    {
+        "id": "00259",
+        "prompt": "A garden where every flower is in full bloom, showcasing a rainbow of colors.",
+        "prompt in Chinese": "一个花园里，每朵花都盛开着，展现出一片彩虹般的色彩。"
+    },
+    {
+        "id": "00260",
+        "prompt": "A bustling kitchen where every chef is preparing a dish.",
+        "prompt in Chinese": "一个繁忙的厨房，每位厨师都在准备一道菜。"
+    },
+    {
+        "id": "00261",
+        "prompt": "On the grass, all the children are lying down, laughing joyfully.",
+        "prompt in Chinese": "在草地上，所有的孩子都躺着，欢乐地笑着。"
+    },
+    {
+        "id": "00262",
+        "prompt": "A classroom where every student's desk is covered with creative projects and experiments.",
+        "prompt in Chinese": "一个教室，每个学生的桌子上都摆满了创意项目和实验。"
+    },
+    {
+        "id": "00263",
+        "prompt": "In an enchanted forest, every tree is joyfully dancing.",
+        "prompt in Chinese": "魔法森林里，每棵树都在欢快地跳舞。"
+    },
+    {
+        "id": "00264",
+        "prompt": "Little fairies are flying in the sky, each with pink butterfly wings.",
+        "prompt in Chinese": "小精灵在天空中飞翔，每个小精灵都长着粉红色的蝴蝶翅膀。"
+    },
+    {
+        "id": "00265",
+        "prompt": "An old-fashioned barber shop, where every chair is occupied by a customer under a barber's cape.",
+        "prompt in Chinese": "一个老式理发店，每把椅子上都有一个顾客披着理发罩。"
+    },
+    {
+        "id": "00266",
+        "prompt": "A group of people are gathered at a party, all sitting around a dining table.",
+        "prompt in Chinese": "一群人聚集在派对上，所有人都围坐在餐桌周围。"
+    },
+    {
+        "id": "00267",
+        "prompt": "Two chairs in the room, both with books on them.",
+        "prompt in Chinese": "房间里有两把椅子，上面都放着书。"
+    },
+    {
+        "id": "00268",
+        "prompt": "A traditional potter's workshop, where every shelf holds rows of terracotta pots, each imprinted with intricate designs.",
+        "prompt in Chinese": "一个传统的陶器工作室，每个架子上都摆满了排排整齐的陶罐，每个陶罐上都印有复杂的图案。"
+    },
+    {
+        "id": "00269",
+        "prompt": "A bakery where every shelf is filled with a variety of bread and pastries.",
+        "prompt in Chinese": "一个面包店，每个架子上都摆满了各式各样的面包和糕点."
+    }
+]
