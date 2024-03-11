@@ -1,5 +1,11 @@
 # GenAI Bench
 
+### Todos:
+- save videos correctly for video models
+- finish readme & writing instructions
+- add table for gpu/cpu/mps support, run tests on cpu
+
+
 ## Models supported
 ### Text-to-image
 - [DALLE-x](https://openai.com/dall-e-3)
@@ -54,6 +60,3 @@
     python test_{img,video}_models.py
     ```
 
-
-### Todos:
-- Save videos correctly for video models
