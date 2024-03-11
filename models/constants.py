@@ -1,1 +1,0 @@
-TRANSFORMERS_CACHE = './venv/.cache'

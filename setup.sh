@@ -12,3 +12,5 @@ pip install -r requirements.txt
 # Run the sample.py script
 # python tests/test_img_models.py
 python -m tests.test_img_models
+python -m tests.test_video_models
+

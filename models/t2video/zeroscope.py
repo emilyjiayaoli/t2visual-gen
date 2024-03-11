@@ -22,6 +22,7 @@ class ZeroScope(BaseModel):
     def __init__(self, device:str, torch_dtype=torch.float16):
         self.pipe = DiffusionPipeline.from_pretrained("cerspense/zeroscope_v2_576w", torch_dtype=torch_dtype, cache_dir=TRANSFORMERS_CACHE)
         self.pipe.scheduler = DPMSolverMultistepScheduler.from_config(self.pipe.scheduler.config)
+        
         if device != "cpu":
             print(f"Moving model to GPU... device {device}")
             self.pipe.to(device)
@@ -42,9 +43,3 @@ class ZeroScope(BaseModel):
         export_to_video(video_frames, output_video_path=video_path)
         
         return video_path
-
-# model = ZeroScope()
-# prompt = "Darth Vader is surfing on waves"
-# folder_path = "./zeroscope"
-# filename = "zeroscope-video.mp4"
-# model.generate(prompt, folder_path, filename)
