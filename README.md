@@ -21,7 +21,7 @@
 ## Get started
 1. Clone the repository and set up the environment:
     ```bash
-    git clone https://github.com/emilyjiayaoli/GenAI-Bench.git
+    git clone https://github.com/emilyjiayaoli/t2visual-gen.git
     cd GenAI-Bench
 
     # Setup environment & install requirements
