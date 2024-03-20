@@ -68,7 +68,6 @@ if __name__ == '__main__':
     prompts_path = "./data/t2v_prompts2.json" # change me
     DEVICE, type = detect_device()
 
-
     generate(model_name=MODEL, prompts_path=prompts_path, model_folder_path=f"./output/{MODEL}")
 
 

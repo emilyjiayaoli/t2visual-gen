@@ -44,7 +44,7 @@
     ```
 
 5. Batch generation: 
-   1. Prepare a json file storing all the prompts in the following format: a list of json objects with "id" and "prompt" key.
+   1. Prepare a json file in `data/` storing all the prompts in the following format: a list of json objects with "id" and "prompt" key.
    ```json
    [
     {
@@ -54,10 +54,10 @@
     ...
     ]
    ```
-   2. Edit test_{img,video}_models.py and run it
+   2. Edit [generate_images.py](./generate_images.py) or [generate_images.py](./generate_videos.py). This looks like
     ```python
     MODEL = "Midjourney" # Change me
-    prompt_path = "./data/t2v_prompts.json" # Change me
+    prompt_path = "./data/t2v_prompts.json" # Change me: Path to your json prompt file
     DEVICE, type = detect_device()
 
     if MODEL == "Midjourney":
@@ -65,7 +65,7 @@
     
     generate(model_name=MODEL, output_folder_path=f"./output/{MODEL}", prompts_path=prompt_path)
     ```
-   3. In the root directory, run
+   3. In the root directory, run the files
     ```bash 
-    python test_{img,video}_models.py
+    python generate_{images,videos}.py
     ```
