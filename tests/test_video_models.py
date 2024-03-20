@@ -17,7 +17,7 @@ def test_modelscope(device:str): # Running on CPU is not supported
     print("Initializing ModelScope...", end="")
     model = get_model_class('ModelScope')(device=device)
     print("Done.")
-    save_path = model.generate(text_prompt="A red apple on a table", folder_path="./", filename="modelscope-video.mp4")
+    save_path = model.generate(prompt="A red apple on a table", folder_path="./", filename="modelscope-video.mp4")
     print("Done. Video saved at", save_path)
 
 

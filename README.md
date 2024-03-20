@@ -65,7 +65,7 @@
     
     generate(model_name=MODEL, output_folder_path=f"./output/{MODEL}", prompts_path=prompt_path)
     ```
-   3. In the root directory, run the files
+   3. In the root directory, run the generation files
     ```bash 
     python generate_{images,videos}.py
     ```
