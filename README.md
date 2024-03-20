@@ -11,12 +11,12 @@
 - [DALLE-x](https://openai.com/dall-e-3)
 - [Deepfloyd_I_XL_v1](https://huggingface.co/DeepFloyd/IF-I-XL-v1.0)
 - [Midjourney vx](https://www.midjourney.com/home)
-- SDXL 2.1
-- SDXL Base
-- SDXL Turbo
+- [SDXL 2.1](https://huggingface.co/stabilityai/stable-diffusion-2-1)
+- [SDXL Base 1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+- [SDXL Turbo](https://huggingface.co/stabilityai/sdxl-turbo)
 ### Text-to-video
-- Modelscope
-- Zeroscope
+- [Modelscope](https://huggingface.co/ali-vilab/modelscope-damo-text-to-video-synthesis)
+- [Zeroscope](https://huggingface.co/cerspense/zeroscope_v2_576w)
 
 ## Get started
 1. Clone the repository and set up the environment:
@@ -37,14 +37,24 @@
    - **For DALLE-x series**: populate the environment variable `OAI_KEY` in `.env` with your OpenAI API key.
    - **DeepFloyd IF-I-XL-v1.0** is a gated model. You must log in to huggingface and accept the license agreement by going [here](https://huggingface.co/DeepFloyd/IF-I-XL-v1.0).
 
-4. Run tests: In the root directory, run
+4. Run tests: In the root directory, run the following. Feel free to comment out select test cases in `test_all()`
     ```bash
     python -m tests.test_img_models
     python -m tests.test_video_models
     ```
 
 5. Batch generation: 
-   1. Edit test_{img,video}_models.py and run it
+   1. Prepare a json file storing all the prompts in the following format: a list of json objects with "id" and "prompt" key.
+   ```json
+   [
+    {
+        "id": "00001",
+        "prompt": "A baker pulling freshly baked bread out of an oven in a bakery.",
+    },
+    ...
+    ]
+   ```
+   2. Edit test_{img,video}_models.py and run it
     ```python
     MODEL = "Midjourney" # Change me
     prompt_path = "./data/t2v_prompts.json" # Change me
@@ -55,8 +65,7 @@
     
     generate(model_name=MODEL, output_folder_path=f"./output/{MODEL}", prompts_path=prompt_path)
     ```
-   2. In the root directory, run
+   3. In the root directory, run
     ```bash 
     python test_{img,video}_models.py
     ```
-

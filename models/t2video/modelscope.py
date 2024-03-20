@@ -26,8 +26,11 @@ class ModelScope(BaseModel):
         Parameters:
         - device: The computing device ('cpu' or 'cuda') for the model to run on. Defaults to 'cuda'.
         """
-        if device != "cpu":
+        if "cuda" in device:
             os.environ["CUDA_VISIBLE_DEVICES"] = device
+        else:
+            raise ValueError("ModelScope only supports CUDA devices.")
+        
         # Define the directory to store model weights.
         model_dir = pathlib.Path(os.path.join(TRANSFORMERS_CACHE, 'modelscope_weights'))
         

@@ -74,7 +74,7 @@ def test_sdxl_2_1(device:str): # Running on CPU is not supported
 def test_all():
     OAI_KEY = os.getenv("OAI_KEY")
     MJ_SERVER_URL = os.getenv("MJ_SERVER_URL")
-    DEVICE, type = detect_device()
+    DEVICE, type = 'cpu', None #detect_device()
 
     if not os.path.exists(SAVE_PATH):
         os.makedirs(SAVE_PATH)
