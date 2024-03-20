@@ -16,7 +16,7 @@
 1. Clone the repository and set up the environment:
     ```bash
     git clone https://github.com/emilyjiayaoli/t2visual-gen.git
-    cd GenAI-Bench
+    cd t2visual-gen
 
     # Setup environment & install requirements
     python -m venv venv
