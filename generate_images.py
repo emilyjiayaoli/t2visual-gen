@@ -2,6 +2,8 @@ import json
 import os
 from utils import detect_device
 from models.t2image import get_model_class, print_all_model_names
+from dotenv import load_dotenv
+load_dotenv()
 
 def load_prompts_dict(path):
     with open(path, "r") as f:

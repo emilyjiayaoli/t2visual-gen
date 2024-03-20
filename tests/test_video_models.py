@@ -13,9 +13,9 @@ def test_zeroscope(device:str): # Running on CPU is not supported
     save_path = model.generate(prompt="two people; the one on the right has long hair and the one on the left doesn't.", folder_path="./", filename="zeroscope-video.mp4")
     print("Done. Video saved at", save_path)
 
-def test_modelscope(): # Running on CPU is not supported
+def test_modelscope(device:str): # Running on CPU is not supported
     print("Initializing ModelScope...", end="")
-    model = get_model_class('ModelScope')()
+    model = get_model_class('ModelScope')(device=device)
     print("Done.")
     save_path = model.generate(text_prompt="A red apple on a table", folder_path="./", filename="modelscope-video.mp4")
     print("Done. Video saved at", save_path)
@@ -27,8 +27,8 @@ def test_all():
 
     DEVICE, type = detect_device()
     
-    test_zeroscope(device='cpu') # doesn't work on mps
-    test_modelscope()
+    test_zeroscope(device=DEVICE) # doesn't work on mps, cpu, 
+    test_modelscope(device=DEVICE) # doesn't work on non cuda devices
 
 
 if __name__ == "__main__":

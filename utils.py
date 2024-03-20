@@ -32,6 +32,4 @@ def crop_for_left_top(input_folder, output_folder):
                 crop_img = img.crop((0, 0, width // 2, height // 2))
                 crop_img.save(output_path)
 
-# input_folder = "./imgs-batch2/Midjourney_orig"  
-# output_folder = "./imgs-batch2/Midjourney"  
-# crop_left_top(input_folder, output_folder)
+

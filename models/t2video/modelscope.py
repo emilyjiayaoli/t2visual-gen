@@ -3,13 +3,13 @@ from huggingface_hub import snapshot_download
 from ..base_model import BaseModel
 from modelscope.pipelines import pipeline
 from modelscope.outputs import OutputKeys
-from ..constants import TRANSFORMERS_CACHE
 import os
 import shutil
 import torch
-
 from dotenv import load_dotenv
 load_dotenv()
+
+TRANSFORMERS_CACHE = os.getenv("TRANSFORMERS_CACHE")
 # os.environ["CUDA_VISIBLE_DEVICES"] = os.getenv("CUDA_VISIBLE_DEVICES")  # Specify the GPU device ID to use.
 
 class ModelScope(BaseModel):
@@ -19,13 +19,15 @@ class ModelScope(BaseModel):
     hosted on Hugging Face's model hub at:
     https://huggingface.co/ali-vilab/modelscope-damo-text-to-video-synthesis
     """
-    def __init__(self):
+    def __init__(self, device:str):
         """
         Initializes the ModelScope class by downloading the model weights and setting up the pipeline.
 
         Parameters:
         - device: The computing device ('cpu' or 'cuda') for the model to run on. Defaults to 'cuda'.
         """
+        if device != "cpu":
+            os.environ["CUDA_VISIBLE_DEVICES"] = device
         # Define the directory to store model weights.
         model_dir = pathlib.Path(os.path.join(TRANSFORMERS_CACHE, 'modelscope_weights'))
         

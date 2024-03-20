@@ -6,6 +6,7 @@ load_dotenv()
 
 SAVE_PATH = os.path.join(os.getenv("SAVE_PATH"), "imgs")
 
+
 def test_dalle(openai_api_key:str):
     print("Initializing DALLE...", end="")
     model = get_model_class('DALLE')(openai_api_key, version=3) # DALLE-3

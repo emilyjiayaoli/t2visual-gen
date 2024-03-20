@@ -10,6 +10,7 @@ from diffusers import StableDiffusionPipeline, DPMSolverMultistepScheduler
 from ..base_model import BaseModel
 from dotenv import load_dotenv
 load_dotenv()
+
 TRANSFORMERS_CACHE = os.getenv("TRANSFORMERS_CACHE")
 
 class SDXL_2_1(BaseModel):

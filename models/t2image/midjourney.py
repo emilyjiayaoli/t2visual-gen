@@ -218,9 +218,6 @@ class Midjourney(BaseModel):
             os.makedirs(folder_path)
 
         save_path = os.path.join(folder_path, filename)
-        if os.path.exists(save_path):
-            print(f"Image already exists at {save_path}")
-            return save_path
         
         response = requests.get(image_url) # Send a GET request to the image URL
 

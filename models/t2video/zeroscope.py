@@ -11,6 +11,7 @@ from diffusers.utils import export_to_video
 from ..base_model import BaseModel
 from dotenv import load_dotenv
 load_dotenv()
+
 TRANSFORMERS_CACHE = os.getenv("TRANSFORMERS_CACHE")
 
 class ZeroScope(BaseModel):
@@ -27,6 +28,7 @@ class ZeroScope(BaseModel):
             print(f"Moving model to GPU... device {device}")
             self.pipe.to(device)
         else:
+            print("Running on CPU. Enabling CPU offload...")
             self.pipe.enable_model_cpu_offload()
 
     def generate(self, prompt, folder_path="./", filename="zeroscope-video.mp4", 

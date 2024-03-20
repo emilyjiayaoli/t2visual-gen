@@ -12,6 +12,7 @@ from diffusers.utils import pt_to_pil
 from ..base_model import BaseModel
 from dotenv import load_dotenv
 load_dotenv()
+
 TRANSFORMERS_CACHE = os.getenv("TRANSFORMERS_CACHE")
 
 class DeepFloyd_I_XL_v1(BaseModel):

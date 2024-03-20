@@ -10,3 +10,5 @@ open_clip_torch
 pytorch-lightning
 
 invisible_watermark 
+
+python-dotenv
